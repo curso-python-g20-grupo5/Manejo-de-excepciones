@@ -80,4 +80,11 @@ Selecciona una opción: 2
 Nuevo ancho: 1200
 Error: Valor de ancho fuera de los límites - Dimension: ancho, Máximo permitido: 1000
 ```
+## Contribuciones
 
+- [Rosa Rubio](https://github.com/PaulinaRubioP)
+- [Valery Maragaño](https://github.com/Valyxp)
+- [Marco Alvarado](https://github.com/7pixel-cl)
+- [Esteban Hernández](https://github.com/stivhc)
+
+⌨️ con ❤️ por el Grupo 5 - G20 😊
